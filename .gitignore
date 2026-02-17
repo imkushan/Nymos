@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Build directories
+build/
+dist/
+
+# Other files and directories to ignore
+# Add any other development files or directories that should be ignored here
